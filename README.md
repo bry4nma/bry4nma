@@ -1,6 +1,6 @@
 ### Hola mi nombre es VOXTO 👋
 
-Soy un programador que se enfoca mas en el front-edn pero tambien estoy trabajando en proyectos con otras tecnoslogias
+Soy un programador que se enfoca mas en el front-edn<br> pero tambien estoy trabajando en proyectos con otras tecnoslogias
 <!--
 **V0XTO/V0XTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
