@@ -21,6 +21,8 @@ Soy un programador que se enfoca mas en el front-edn<br> pero tambien estoy trab
 <p>Estoy trabajando en algunos proyectos personales pero tambien veo la posibilidad de hacer proyectos con otras personas u empresas</p>
 
 <h3>Contacto📞</h3>
+voxtocontact@gmail.com
+
 <!--
 **V0XTO/V0XTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
