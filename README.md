@@ -13,6 +13,9 @@ Soy un programador que se enfoca mas en el front-edn<br> pero tambien estoy trab
 
 </div>
 
+
+area de trabajo👷‍♂️<br>
+ahora mismo soy freelancer pero en un futuro podria considerar algunas opciones de trabajo
 <!--
 **V0XTO/V0XTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
