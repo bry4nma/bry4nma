@@ -2,8 +2,10 @@
 
 Soy un programador que se enfoca mas en el front-edn<br> pero tambien estoy trabajando en proyectos con otras tecnologias
 
-skills
-<img src="C:\Users\epica\OneDrive\Desktop\portafolio/css">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width=100px height=100px>
+<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width=100px height=100px>
+
 <!--
 **V0XTO/V0XTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
