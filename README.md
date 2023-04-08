@@ -1,6 +1,6 @@
 ### <h1>Hey my name is Voxto 👋</h1>
 
-I am frontednt devolover in focus javaScript
+I am a javascript focused frontend developer
 <h3>Skeals🪓</h3>
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width=100px height=100px style="display: inline-block">&nbsp;
@@ -17,7 +17,7 @@ I am frontednt devolover in focus javaScript
 <p>freelancer</p>
 
 <h2>focus in proyects🛠️</h2>
-<p>Estoy trabajando en algunos proyectos personales pero tambien veo la posibilidad de hacer proyectos con otras personas u empresas</p>
+
 
 <h3>Contact📞</h3>
 voxtocontact@gmail.com
