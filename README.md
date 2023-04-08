@@ -1,8 +1,7 @@
-### <h1>hey my name is Voxto 👋</h1>
+### <h1>Hey my name is Voxto 👋</h1>
 
-Soy un programador que se enfoca mas en el front-edn<br> pero tambien estoy trabajando en proyectos con otras tecnologias
-
-<h3>habilidades🪓</h3>
+I am frontednt devolover in focus javaScript
+<h3>Skeals🪓</h3>
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width=100px height=100px style="display: inline-block">&nbsp;
 <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width=100px height=100px style="display: inline-block">
@@ -14,13 +13,13 @@ Soy un programador que se enfoca mas en el front-edn<br> pero tambien estoy trab
 </div>
 
 
-<h2>area de trabajo 👷‍</h2><br>
-<p>ahora mismo soy freelancer pero en un futuro podria considerar algunas opciones de trabajo</p>
+<h2>Work area 👷‍</h2><br>
+<p>freelancer</p>
 
-<h2>Mi enfoque en proyectos🛠️</h2>
+<h2>focus in proyects🛠️</h2>
 <p>Estoy trabajando en algunos proyectos personales pero tambien veo la posibilidad de hacer proyectos con otras personas u empresas</p>
 
-<h3>Contacto📞</h3>
+<h3>Contact📞</h3>
 voxtocontact@gmail.com
 
 <!--
