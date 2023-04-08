@@ -1,4 +1,4 @@
-### <h1>Hola mi nombre es VOXTO 👋</h1>
+### <h1>hey my name is Voxto 👋</h1>
 
 Soy un programador que se enfoca mas en el front-edn<br> pero tambien estoy trabajando en proyectos con otras tecnologias
 
