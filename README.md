@@ -5,7 +5,7 @@ I am a javascript focused frontend developer
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width=100px height=100px style="display: inline-block">&nbsp;
 <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width=100px height=100px style="display: inline-block">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width=100px height=100px style="display: inline-block"><br>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width=100px height=100px style="display: inline-block">
 
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width=100px  style="display: inline-block">
 
