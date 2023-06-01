@@ -1,4 +1,4 @@
-### <h1>Hey my name is Voxto 👋</h1>
+### <h1>Hey my name is Bryan Marroquin 👋</h1>
 
 I am a javascript focused frontend developer
 <h3>Skeals🪓</h3>
